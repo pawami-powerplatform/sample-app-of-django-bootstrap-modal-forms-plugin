@@ -6,6 +6,7 @@ If you want to know the detail information about this plugin, please access the 
 reference plugin: https://github.com/trco/django-bootstrap-modal-forms
 
 ## Demo
+![demo3](https://user-images.githubusercontent.com/59159469/77242070-f8ba8680-6c3d-11ea-8507-18b0f3c67b8c.gif)
 
 ## Install
 1. $ pip install -r requirements.txt
