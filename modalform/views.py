@@ -21,7 +21,7 @@ def show_todo_items(request):
 
 
 class CreateTodoItemFormView(BSModalCreateView):
-    template_name = 'creat_modal_form.html'
+    template_name = 'create_modal_form.html'
     form_class = CreateUpdateTodoItemForm
     success_message = 'Success: Item was created.'
     success_url = reverse_lazy('show_todo_items')
